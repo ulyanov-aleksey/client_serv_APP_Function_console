@@ -1,0 +1,6 @@
+2022-03-02 15:35:23,544 - INFO - server_log - server_log_decorator.py - Запись вызвына <function log at 0x7f81d9179280>, содержание:  Сервер запущен по адресу: , на порту: 7799.
+2022-03-02 15:35:38,822 - INFO - server_log - server_log_decorator.py - Запись вызвына <function log at 0x7f81d9179280>, содержание:  Установлено соединение с ПК ('127.0.0.1', 43760)
+2022-03-02 15:35:38,822 - INFO - server_log - server_log_decorator.py - Запись вызвына <function log at 0x7f81d9179280>, содержание:  Установлено соединение с ПК ('127.0.0.1', 43760)
+2022-03-02 15:35:54,020 - INFO - server_log - server_log_decorator.py - Запись вызвына <function log at 0x7f81d9179280>, содержание:  Установлено соединение с ПК ('127.0.0.1', 43762)
+2022-03-02 15:35:54,020 - INFO - server_log - server_log_decorator.py - Запись вызвына <function log at 0x7f81d9179280>, содержание:  Установлено соединение с ПК ('127.0.0.1', 43762)
+2022-03-02 15:35:54,020 - INFO - server_log - server_log_decorator.py - Запись вызвына <function log at 0x7f81d9179280>, содержание:  Установлено соединение с ПК ('127.0.0.1', 43762)
